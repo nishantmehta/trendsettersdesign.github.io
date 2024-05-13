@@ -1,10 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Trend Setters Designs
+title: Trend Setters
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Design your space
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
 
 #-------------------------------
 # Navigation Settings
@@ -14,17 +13,10 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
+    - url: '/about/'
+      title: 'About'
+    - url: '/contact/'
+      title: 'Contact'
 
 #-------------------------------
 # Author Settings
@@ -38,7 +30,7 @@ author:
 hero:
   hero__title: Build your dream space
   hero__description: We are a boutique architect firm based out of Mumbai working on residential and commercial projects
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/cover-photo.jpg'
 
 
 #-------------------------------
@@ -114,27 +106,17 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
     - url: '/about/'
       title: 'About'
     - url: '/contact/'
       title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: mgedndqg 
-  description: Drop me a line! Give me a small blurb about your project and I'll get back to you in a jiffy. We'll chat to make sure my skills are a good match for what you're looking for. 
-
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
+  email: nishantmehta.n@gmail.com 
+  description: whatsapp me @ +91 9967697594
 
 #-------------------------------
 # Google Analytics
