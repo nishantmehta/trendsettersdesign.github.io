@@ -5,9 +5,36 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 May 2024 05:32:18 +0000</pubDate>
-        <lastBuildDate>Mon, 13 May 2024 05:32:18 +0000</lastBuildDate>
+        <pubDate>Mon, 13 May 2024 06:11:17 +0000</pubDate>
+        <lastBuildDate>Mon, 13 May 2024 06:11:17 +0000</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+            <item>
+                <title>Project 1</title>
+                <description>&lt;p&gt;Exposed brick walls, polished concrete floors, and metal accents define this industrial chic apartment.  Vintage furniture pieces and Edison bulb lighting add a touch of history, while modern artwork and textiles keep the space from feeling cold. Large windows offer a glimpse of the urban landscape, and a statement light fixture becomes a focal point in the living area. This apartment is ideal for those who crave a unique and edgy aesthetic.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/03-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;City&quot; /&gt;
+    &lt;img src=&quot;/images/03-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;San Francisco&quot; /&gt;
+    &lt;img src=&quot;/images/04-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;New York&quot; /&gt;
+    &lt;img src=&quot;/images/05-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Chicago&quot; /&gt;
+    &lt;img src=&quot;/images/06-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Houston&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+                <pubDate>Wed, 24 Jan 2024 12:01:35 +0000</pubDate>
+                <link>http://localhost:4000/blog/the-way-to-get-started-is-to-quit-talking-and-begin-doing-copy</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/the-way-to-get-started-is-to-quit-talking-and-begin-doing-copy</guid>
+                
+                <category>fashion</category>
+                
+                <category>study</category>
+                
+                <category>travel</category>
+                
+                
+            </item>
         
             <item>
                 <title>That which does not kill us makes us stronger</title>

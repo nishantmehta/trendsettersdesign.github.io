@@ -33,15 +33,10 @@ author:
   author__bio: I am architect based out of Mumbai working on residential and commercial projects
   author__avatar: '/images/01-1.jpg'
 
-social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/noahkoch"}
-- {icon: "ion-logo-github", link: "https://github.com/noahkoch"}
-- {icon: "ion-logo-medium", link: "https://nowuh.medium.com"}
-
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Trend Setters Design
+  hero__title: Build your dream space
   hero__description: We are a boutique architect firm based out of Mumbai working on residential and commercial projects
   hero__image: '/images/01.jpg'
 
